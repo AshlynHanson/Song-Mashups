@@ -25,8 +25,6 @@ Our goal for this project was to create new song lyrics based on four very diffe
 
 * Download the code files into a Google CoLab notebook and push the play button at the top of each card.
 
-```
-
 ## Authors
 
 Contributors names and contact info
